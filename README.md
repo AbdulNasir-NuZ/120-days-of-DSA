@@ -1,9 +1,9 @@
 # 120-days-of-DSA { JAVA } #Challenge :man_technologist:
             
-[ Session 1  : Introduction to Data strutcure ]
+## [ Session 1  : Introduction to Data strutcure ]
 
-  Day 1 
- 
+### ** Day 1 **
+------- 
 Q. What is Data Struture ?
 --------------------------------------------
    It's a way of Organize Data.  After Organizing data it becomes easy to process it 
