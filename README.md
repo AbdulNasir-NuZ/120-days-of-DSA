@@ -1,4 +1,6 @@
-# 120-days-of-DSA { JAVA } :man_technologist:
+# 120-days-of-DSA { JAVA } #Challenge :man_technologist:
             
-Session 1 :  " TIME COMPLEXITY " 
+[ Session 1 ] : Intro 
+
+Day 1
 
