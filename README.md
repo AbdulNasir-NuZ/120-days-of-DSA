@@ -5,6 +5,7 @@
   Day 1 
  
 Q. What is Data Struture ?
+--------------------------------------------
    It's a way of Organize Data.  After Organizing data it becomes easy to process it 
 
 Q. What are types of Data Structure ?
