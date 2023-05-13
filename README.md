@@ -2,7 +2,7 @@
             
 ## [ Session 1  : Introduction to Data strutcure ]
 
-### ** Day 1 **
+ ** Day 1 **
 ------- 
 Q. What is Data Struture ?
 --------------------------------------------
